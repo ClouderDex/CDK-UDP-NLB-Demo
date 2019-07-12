@@ -3,7 +3,7 @@
 Create a udp logging service that forwards udp logs to s3 using [Fluentd's td-agent](https://www.fluentd.org/faqs) deployed with [Cloud Development Kit (CDK)](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
 
 # Watch my youtube video explaining the stack
-https://www.youtube.com/watch?v=dXTEVp0ATzo
+https://youtu.be/dXTEVp0ATzo
 
 
 # Disclaimer
