@@ -2,6 +2,10 @@
 # Logging UDP NLB Demo using CDK
 Create a udp logging service that forwards udp logs to s3 using [Fluentd's td-agent](https://www.fluentd.org/faqs) deployed with [Cloud Development Kit (CDK)](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
 
+# Watch my youtube video explaining the stack
+https://www.youtube.com/watch?v=dXTEVp0ATzo
+
+
 # Disclaimer
 This code is provided as-is and is intended to be an example of how you can use these services and technologies.
 This demo will need to be tuned and adjusted to fit in your environment.
